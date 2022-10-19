@@ -33,8 +33,6 @@ I encourage you to follow along with me on this en-to-end project.
 
 Ideally you should be applying the same steps as me in your own project.
 
-Bear with me in these long articles, it will be worth it.
-
 # We will be covering this project in 9 defined steps. They are:
 
 1. Creating a GitHub Repository

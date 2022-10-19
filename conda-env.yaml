@@ -1,0 +1,6 @@
+name: bank-telemarketing-success
+
+dependencies:
+  - python
+  - pandas
+  - numpy

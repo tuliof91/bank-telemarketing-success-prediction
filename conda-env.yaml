@@ -4,3 +4,5 @@ dependencies:
   - python
   - pandas
   - numpy
+  - scikit-learn
+  - ipykernel

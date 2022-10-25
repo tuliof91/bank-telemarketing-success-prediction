@@ -37,7 +37,7 @@ This project follows the structure below, and I will be covering a gentle introd
 
 ## Topics
 
-1. Creating a GitHub Repository
+1. [Creating a GitHub Repository](https://github.com/tuliof91/bank-telemarketing-success-prediction/blob/main/tutorials/01-github-basics.md)
 2. Setting up a conda environment
 3. Checking data quality
 4. Creating a python package
